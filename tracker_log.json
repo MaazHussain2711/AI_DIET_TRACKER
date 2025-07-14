@@ -1,0 +1,75 @@
+[
+    {
+        "timestamp": "2025-07-14 21:20:46",
+        "user": "Maa",
+        "foods": [
+            "donut",
+            "donut"
+        ],
+        "total_calories": 390,
+        "daily_goal": 2941
+    },
+    {
+        "timestamp": "2025-07-14 21:23:38",
+        "user": "Maaz",
+        "foods": [
+            "donut",
+            "donut",
+            "donut",
+            "donut"
+        ],
+        "total_calories": 780,
+        "daily_goal": 2934
+    },
+    {
+        "timestamp": "2025-07-14 21:29:30",
+        "user": "Maaz",
+        "profile": {
+            "age": 21,
+            "gender": "Male",
+            "height": 176.0,
+            "weight": 58.0,
+            "goal": "gain"
+        },
+        "foods": [
+            "donut"
+        ],
+        "total_calories": 195,
+        "daily_goal": 2949
+    },
+    {
+        "timestamp": "2025-07-14 21:30:05",
+        "user": "Maaz",
+        "profile": {
+            "age": 21,
+            "gender": "Male",
+            "height": 176.0,
+            "weight": 58.0,
+            "goal": "gain"
+        },
+        "foods": [
+            "donut",
+            "donut",
+            "donut",
+            "donut"
+        ],
+        "total_calories": 780,
+        "daily_goal": 2949
+    },
+    {
+        "timestamp": "2025-07-14 21:55:29",
+        "user": "Maaz",
+        "profile": {
+            "age": 21,
+            "gender": "Male",
+            "height": 176.0,
+            "weight": 58.0,
+            "goal": "gain"
+        },
+        "foods": [
+            "cake"
+        ],
+        "total_calories": 300,
+        "daily_goal": 2949
+    }
+]
